@@ -1,5 +1,5 @@
 # mortal-kombat
-## Mortal Kombat - учебный проект по академии
+## Mortal Kombat - учебный проект Glo Academy
 ### Технологии
 - HTML
 - CSS
